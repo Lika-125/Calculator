@@ -1,4 +1,4 @@
-var num = prompt("I want: add, sub, mult, div");
+const num = prompt("I want: add, sub, mult, div");
 
 let x = +prompt("Enter number 1");
 let y = +prompt("Enter number 2");
